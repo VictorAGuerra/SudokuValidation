@@ -158,7 +158,7 @@ int main (int argc, char *argv[])
 
   if (sudoku_errors == 1)
   {
-    FILE *output = fopen("sudoku_vag.out", "w");
+    FILE *output = fopen("sudoku.out", "w");
     fprintf(output, "FAIL");
     fclose(output);
     exit(EXIT_FAILURE);
