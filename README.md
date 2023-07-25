@@ -31,4 +31,4 @@ The output will be printed through a "sudoku.out" file that will be created by t
 
 ## Aditional info
 
-All the application is written in C language and was passed as an activity for "Software Infrastructure" class in Computer Science graduation at CESAR School.
+All the application is written in C language and utilizes threads for the sudoku validation. It was passed as an activity for "Software Infrastructure" class in Computer Science graduation at CESAR School.
