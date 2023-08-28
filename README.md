@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the code is to verify if the inserted Sudoku parameters and matrix are valid, no matter the size of the game.
+The purpose of the code is to verify, with the use of multithreads, if the inserted Sudoku parameters and matrix are valid, no matter the size of the game.
 Meaning it will check if there are any inconsistensies with the given data, in comparison to the Sudoku game model.
 
 ## How to use
